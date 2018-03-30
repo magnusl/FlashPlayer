@@ -1,2 +1,2 @@
 # FlashPlayer
-Flash (SWF) player
+Flash (SWF) player, incomplete and abandoned. Initially designed for game GUI:s.
